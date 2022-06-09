@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello all! My name is Angus Watters and I am a Data Scientist with most of my work revolving around spatial data and modeling. I enjoy making fun data visualization and Shiny applications to help make data exploration easier for everyone!
 
 <!--
 **anguswg-ucsb/anguswg-ucsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
