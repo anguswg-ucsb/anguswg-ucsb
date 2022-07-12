@@ -1,4 +1,4 @@
-### Hello all! My name is Angus Watters and I am a Data Scientist!
+### Hello all! I'm Angus and I'm a Data Scientist!
 
 Most of my work revolves around spatial data and modeling, but I don't discreminate, open to any and all fields of data science work. I also like to make fun data visualization tools (Shiny applications) to help make data exploration easier on the eyes!
 
