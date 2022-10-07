@@ -1,6 +1,6 @@
 ## Hello all, I'm Angus!
 
-I'm a data scientist and geospatial software developer at Lynker Technologies. Most of my work revolves around spatial data and modeling, but I don't discreminate, open to any and all fields of data science work. I also like to make fun data visualization tools (Shiny applications) to help make data exploration easier on the eyes!
+I'm a data scientist and geospatial software developer at Lynker Technologies. Most of my work revolves around spatial data and modeling, but I don't discriminate, open to any and all fields of data science work. I also like to make fun data visualization tools (Shiny applications) to help make data exploration easier on the eyes!
 
 <!--
 **anguswg-ucsb/anguswg-ucsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
