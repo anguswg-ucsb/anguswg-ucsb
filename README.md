@@ -11,6 +11,8 @@ I'm a data scientist and geospatial software developer at Lynker Technologies. M
 - Microservices in the cloud
 - ML
 
+<iframe src="https://giphy.com/embed/HknSLLEbzZCoM" width="480" height="247" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-smoke-cloud-HknSLLEbzZCoM">via GIPHY</a></p>
+
 <!--
 **anguswg-ucsb/anguswg-ucsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
