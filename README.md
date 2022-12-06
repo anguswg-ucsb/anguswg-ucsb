@@ -1,6 +1,6 @@
 ## Hello all, I'm Angus!
 
-I'm a data scientist and geospatial software developer at Lynker Technologies. Most of my work revolves around spatial data aggregation, analysis and modeling, but I am open to any and all fields of data science work. 
+I'm a data scientist and geospatial software developer at Lynker Technologies. Most of my work revolves around spatial data aggregation, analysis and modeling, but I am open to any and all fields of **data science** and **cloud engineering** work.
 
 **My interests include:**
 - R/Python
@@ -11,7 +11,7 @@ I'm a data scientist and geospatial software developer at Lynker Technologies. M
 - Microservices in the cloud
 - ML
 
-<iframe src="https://giphy.com/embed/HknSLLEbzZCoM" width="480" height="247" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-smoke-cloud-HknSLLEbzZCoM">via GIPHY</a></p>
+![](https://media.giphy.com/media/HknSLLEbzZCoM/giphy.gif)
 
 <!--
 **anguswg-ucsb/anguswg-ucsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
