@@ -2,6 +2,8 @@
 
 I'm a data scientist and geospatial software developer at Lynker Technologies. Most of my work revolves around spatial data aggregation, analysis and modeling, but I am open to any and all fields of **data science** and **cloud engineering** work.
 
+<img align="right" src="https://media.giphy.com/media/HknSLLEbzZCoM/giphy.gif">
+
 **My interests include:**
 - R/Python
 - Data preprocessing and ingestion
@@ -11,7 +13,7 @@ I'm a data scientist and geospatial software developer at Lynker Technologies. M
 - Microservices in the cloud
 - ML
 
-![](https://media.giphy.com/media/HknSLLEbzZCoM/giphy.gif)
+
 
 <!--
 **anguswg-ucsb/anguswg-ucsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
