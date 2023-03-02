@@ -10,8 +10,8 @@ I'm a data scientist and geospatial software developer at Lynker Technologies. M
 - EDA
 - Data Visualization (Shiny)
 - Cloud Services (AWS)
-- Microservices in the cloud
-- ML
+- Microservices
+- Machine Learning
 
 
 
