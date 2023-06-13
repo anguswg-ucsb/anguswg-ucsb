@@ -5,9 +5,10 @@ As a data scientist and software engineer at Lynker Technologies, I specialize i
 <img align="right" src="https://media.giphy.com/media/HknSLLEbzZCoM/giphy.gif">
 
 **My interests include:**
-- R/Python
+- Python/R/JavaScript
 - Data processing, ingestion, EDA
 - Data Visualization
+- CI/CD
 - Cloud Services
 - Microservices
 - Machine Learning
