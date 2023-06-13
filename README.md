@@ -6,10 +6,9 @@ As a data scientist and software engineer at Lynker Technologies, I specialize i
 
 **My interests include:**
 - R/Python
-- Data preprocessing and ingestion
-- EDA
-- Data Visualization (Shiny)
-- Cloud Services (AWS)
+- Data processing, ingestion, EDA
+- Data Visualization
+- Cloud Services
 - Microservices
 - Machine Learning
 
