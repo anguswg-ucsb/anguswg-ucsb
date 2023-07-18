@@ -2,20 +2,20 @@
 
 My name is Angus and I'm a software engineer and data scientist working for [Lynker](https://lynker-intel.com/) and [NOAA OWP Lynker and NOAA Office of Water Prediction](https://water.noaa.gov/)
 
-[![Angus' GitHub stats](https://github-readme-stats.vercel.app/api?username=anguswg-ucsb)](https://github.com/anuraghazra/github-readme-stats)
-
 <img align="right" src="https://media.giphy.com/media/HknSLLEbzZCoM/giphy.gif">
 
-**My interests include:**
-- Python/R/JavaScript
-- Data processing, ingestion, EDA
-- Data Visualization
-- CI/CD
-- Cloud Services
-- Microservices
-- Machine Learning
+[![Angus' GitHub stats](https://github-readme-stats.vercel.app/api?username=anguswg-ucsb&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anguswg-ucsb&layout=donut&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/angus-watters/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://anguswatters.wixsite.com/personalportfolio">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2"/>
+  </a>
+</div>
 
 <!--
 **anguswg-ucsb/anguswg-ucsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
