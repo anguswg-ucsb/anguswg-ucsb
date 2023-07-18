@@ -2,6 +2,7 @@
 
 My name is Angus and I'm a software engineer and data scientist working for [Lynker](https://lynker-intel.com/) and [NOAA OWP Lynker and NOAA Office of Water Prediction](https://water.noaa.gov/)
 
+[![Angus' GitHub stats](https://github-readme-stats.vercel.app/api?username=anguswg-ucsb)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="right" src="https://media.giphy.com/media/HknSLLEbzZCoM/giphy.gif">
 
