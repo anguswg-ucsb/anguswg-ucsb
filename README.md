@@ -1,6 +1,7 @@
-## Hello all, I'm Angus!
+## Welcome!
 
-As a software engineer and data scientist at Lynker Technologies, I specialize in spatial data analysis, modeling, and cloud engineering. My expertise allows me to develop efficient solutions that enable data-driven decision-making and improve organizational operations. I keep up with new technologies and methodologies to enhance my skill set and stay current in the field. My passion is creating impactful software solutions that drive business success.
+My name is Angus and I'm a software engineer and data scientist working for [Lynker](https://lynker-intel.com/) and [NOAA OWP Lynker and NOAA Office of Water Prediction](https://water.noaa.gov/)
+
 
 <img align="right" src="https://media.giphy.com/media/HknSLLEbzZCoM/giphy.gif">
 
