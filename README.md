@@ -4,9 +4,9 @@ My name is Angus and I'm a software engineer and data scientist working for [Lyn
 
 <img align="right" src="https://media.giphy.com/media/HknSLLEbzZCoM/giphy.gif">
 
-[![Angus' GitHub stats](https://github-readme-stats.vercel.app/api?username=anguswg-ucsb&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Angus' GitHub stats](https://github-readme-stats.vercel.app/api?username=anguswg-ucsb&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anguswg-ucsb&layout=donut&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anguswg-ucsb&layout=donut&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <div id="badges">
   <a href="[your-linkedin-URL](https://www.linkedin.com/in/angus-watters/)">
