@@ -1,6 +1,6 @@
 ## Welcome!
 
-My name is Angus and I'm a software engineer and data scientist working for [Lynker](https://lynker-intel.com/) and [NOAA OWP Lynker and NOAA Office of Water Prediction](https://water.noaa.gov/)
+My name is Angus and I'm a software engineer working for [Lynker](https://lynker-intel.com/) and [NOAA OWP Lynker and NOAA Office of Water Prediction](https://water.noaa.gov/)
 
 <img align="right" src="https://media.giphy.com/media/HknSLLEbzZCoM/giphy.gif">
 
