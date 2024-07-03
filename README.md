@@ -60,7 +60,7 @@
         <td><img alt="Issues" src="https://img.shields.io/github/issues/LynkerIntel/climatePy?style=flat&labelColor=073642&color=005970" height="20"/></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/NOAA-OWP/hydrofabric3D" target="_blank">hydrofabric3D</a></td>
+        <td><a href="https://github.com/mikejohnson51/hydrofabric3D" target="_blank">hydrofabric3D</a></td>
         <td>Cut cross sections from a DEM and linestring network.</td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/mikejohnson51/hydrofabric3D?style=flat&labelColor=073642&color=005970" height="20"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/mikejohnson51/hydrofabric3D?style=flat&labelColor=073642&color=005970" height="20"/></td>
